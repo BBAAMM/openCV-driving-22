@@ -1,5 +1,20 @@
 # openCV-driving-22
-한양대학교 Erica baqu4이라는 동아리에서 1학년 1학기에 참여했던 자율주행 프로젝트입니다. 
+This project is an autonomous-driving system developed by our team baqu4 at Hanyang University ERICA.
+
+It performs linear autonomous driving by combining sensor preprocessing, linear regression, and a tanh activation function for control.
+
+## File structure
+``` plaintext
+openCV-driving-22/
+├── .gitignore
+├── README.md
+├── LaneDetector_16.py
+├── Preprocessing.py
+├── Steering.py
+├── StopDetector.py
+└── source/
+    └── corn_data/
+```
 
 ## Output
 ![Output](https://github.com/user-attachments/assets/bccc4ae2-27b4-4ca4-8698-3d92cb568c99)
