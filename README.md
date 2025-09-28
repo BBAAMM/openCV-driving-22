@@ -1,7 +1,7 @@
 # openCV-driving-22
 This project is an autonomous-driving system developed by our team baqu4 at Hanyang University ERICA.
 
-It performs linear autonomous driving by combining sensor preprocessing, linear regression, and a tanh activation function for control.
+It performs linear autonomous driving by combining sensor preprocessing, linear regression for perception, and a tan function for steering.
 
 ## File structure
 ``` plaintext
